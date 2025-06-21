@@ -42,24 +42,38 @@ Bash
 
 sudo ./build.sh && sudo ./test.sh
 
-📸 Screenshots
+## 📸 Screenshots
 
-Witness NiluxOS in action within an emulated environment:
+Witness **NILuxOS** in action within an emulated environment:
 
-NiluxOS Home Screen: Shows the initial boot prompt and welcome message.
-![NiluxOS Boot Screen](ScreenShots/Screenshot From 2025-06-20 23-29-30.png)
+---
 
-NiluxOS Help Command Output: Displays a list of available commands.
-![NiluxOS Help Screen](ScreenShots/Screenshot From 2025-06-20 23-29-44.png)
+### 🔹 NILuxOS Home Screen
+Shows the initial boot prompt and welcome message.
 
-NiluxOS Info Command Output: Provides a detailed overview of detected system hardware.
-![NiluxOS Info Screen](ScreenShots/Screenshot From 2025-06-20 23-29-56.png)
+![NiluxOS Boot Screen](ScreenShots/Screenshot%20From%202025-06-20%2023-29-30.png)
 
-NiluxOS Clear Command Output: Shows the console after the 'clear' command has been executed.
-![NiluxOS Cleared Screen - 1](ScreenShots/Screenshot From 2025-06-20 23-30-26.png)
-![NiluxOS Cleared Screen - 2](ScreenShots/Screenshot From 2025-06-20 23-30-34.png)
+---
 
-NiluxOS Clear Command Output: Shows the console after the 'clear' command has been executed.
-![NiluxOS Cleared Screen - 1](OS/screenshots/Screenshot From 2025-06-20 23-30-26.png)
-![NiluxOS Cleared Screen - 2](OS/screenshots/Screenshot From 2025-06-20 23-30-34.png)
+### 🔹 NILuxOS Help Command Output
+Displays a list of available commands.
+
+![NiluxOS Help Screen](ScreenShots/Screenshot%20From%202025-06-20%2023-29-44.png)
+
+---
+
+### 🔹 NILuxOS Info Command Output
+Provides a detailed overview of detected system hardware.
+
+![NiluxOS Info Screen](ScreenShots/Screenshot%20From%202025-06-20%2023-29-56.png)
+
+---
+
+### 🔹 NILuxOS Clear Command Output
+Shows the console after the `clear` command has been executed.
+
+![NiluxOS Cleared Screen - 1](ScreenShots/Screenshot%20From%202025-06-20%2023-30-26.png)
+
+![NiluxOS Cleared Screen - 2](ScreenShots/Screenshot%20From%202025-06-20%2023-30-34.png)
+
     
