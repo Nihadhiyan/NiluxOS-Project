@@ -47,15 +47,15 @@ sudo ./build.sh && sudo ./test.sh
 Witness NiluxOS in action within an emulated environment:
 
 **NiluxOS Home Screen:** Shows the initial boot prompt and welcome message.
-![NiluxOS Boot Screen](OS/Screenshots/Screenshot From 2025-06-20 23-29-30.png)
+![NiluxOS Boot Screen](Screenshots/Screenshot From 2025-06-20 23-29-30.png)
 
 **NiluxOS Help Command Output:** Displays a list of available commands.
-![NiluxOS Help Screen](OS/Screenshots/Screenshot From 2025-06-20 23-29-44.png)
+![NiluxOS Help Screen](Screenshots/Screenshot From 2025-06-20 23-29-44.png)
 
 **NiluxOS Info Command Output:** Provides a detailed overview of detected system hardware.
-![NiluxOS Info Screen](OS/Screenshots/Screenshot From 2025-06-20 23-29-56.png)
+![NiluxOS Info Screen](Screenshots/Screenshot From 2025-06-20 23-29-56.png)
 
 **NiluxOS Clear Command Output:** Shows the console after the 'clear' command has been executed.
-![NiluxOS Clear Screen](OS/Screenshots/Screenshot From 2025-06-20 23-30-26.png)
-![NiluxOS Cleared Screen](OS/Screenshots/Screenshot From 2025-06-20 23-30-34.png)
+![NiluxOS Clear Screen](Screenshots/Screenshot From 2025-06-20 23-30-26.png)
+![NiluxOS Cleared Screen](Screenshots/Screenshot From 2025-06-20 23-30-34.png)
     
